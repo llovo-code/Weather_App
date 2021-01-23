@@ -1,0 +1,17 @@
+{
+  "name": "geoweather",
+  "version": "1.0.0",
+  "description": "world weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "llovo-code",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^7.3.3",
+    "prompt": "^1.1.0",
+    "yargs": "^16.2.0"
+  }
+}
